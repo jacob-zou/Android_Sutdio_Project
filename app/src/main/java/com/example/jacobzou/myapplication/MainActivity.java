@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        Log.d("zgq", "from banch1 change file!!!!! aiaiaiaaiaiaiaai");
+        Log.d("zgq", "from banch1 change file!!!!!");
     }
 
     @Override
